@@ -157,8 +157,9 @@ Recognizing this limitation, we abstracted the most import principles of the 8 G
 * Misc. software for displaying key presses and mouse clicks
 
     * These software programs are diverse, but the most common thing is that they use an interface design that is consistent with other lightweight desktop applications for recording a screen or saving the commands to a text file. On top of this, these applications focus solely on displaying the most recent key commands and mouse clicks on screen, and reduce errors by having limited functional affordances alongside this. A lackluster aspect of these programs is their inability to reverse actions, since if the program is currently recording the inputted commands or key presses, any mistakes cannot be edited out for clarity.
-## C: Proposed Solution
 
+
+## C: Proposed Solution
 
 ### Proposed Solution
 

@@ -11,7 +11,6 @@ Unfortunately, due to the traditional convention of command-line text editors, t
 This is the problem that we hope to solve. More concretely, we hope to decouple a given action within a command-line text editor and the text editor itself. This will, in turn, allow understanding of the material being taught without the prior knowledge of a specific text-editor’s encoded actions. 
 
 ## Milestones
-{{ site.baseurl }}{% milestone1.md %}
 * Milestone 1: Problem Proposal
 * Milestone 2: Definition & Related Work
 * Milestone 3: Design Alternatives
