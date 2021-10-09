@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# CSCI4800: Human Computer Interaction
+### Team: UGAHacks
 
-You can use the [editor on GitHub](https://github.com/jefferyjohn/hci4800/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### Members: Calla Corder, Mathew Suarez, Jeffery John
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Synopsis 
 
-### Markdown
+In a given classroom, virtual or in person, in which students are following along with a teacher’s coding instructions, there are often times in where the teacher saves and exits from a command-line text editor, like Vim or Emacs, using a command string that is obvious to themselves but may not be obvious to a given student who is unfamiliar to said editor. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Unfortunately, due to the traditional convention of command-line text editors, there is an apparent lack of affordances, what the commands may do, and signifiers, what the commands can do. This may lead to students falling behind on the lesson and in turn becoming more worried on how to follow along as opposed to the material attempting to be taught. 
+This is the problem that we hope to solve. More concretely, we hope to decouple a given action within a command-line text editor and the text editor itself. This will, in turn, allow understanding of the material being taught without the prior knowledge of a specific text-editor’s encoded actions. 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jefferyjohn/hci4800/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Milestones
+{{ site.baseurl }}{% milestone1.md %}
+* Milestone 1: Problem Proposal
+* Milestone 2: Definition & Related Work
+* Milestone 3: Design Alternatives
