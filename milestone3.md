@@ -61,7 +61,7 @@
 
 ## B: Ideation and Prelimary Designs
 
-![Mural ideation board](https://github.com/jefferyjohn/hci4800/blob/main/images/ugahacks_mural.jpg)
+![Mural ideation board](https://github.com/jefferyjohn/hci4800/blob/main/images/ugahacks-mural.jpg)
 
 ### Class Size
 * Display (on the student's screen) the last seven commands an instructor typed but allow students to scroll up to see more
@@ -85,12 +85,12 @@
 
 ### **Wireframes**
 
-![Mural wireframe](https://github.com/jefferyjohn/hci4800/blob/main/images/ugahacks_m3_wireframes.jpg)
+![Mural wireframe](https://github.com/jefferyjohn/hci4800/blob/main/images/ugahacks-m3-wireframes.jpg)
 
 ### Command Context
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FCSHkSKd5450K7fMmgOITnv%2FUGAHacks-Preliminary-Designs%3Fnode-id%3D250%253A679" allowfullscreen></iframe>
 
-[Link to wireframe](https://github.com/jefferyjohn/hci4800/blob/main/images/ugahacks_m3_display.jpg)
+[Link to wireframe](https://github.com/jefferyjohn/hci4800/blob/main/images/ugahacks-m3-display.jpg)
 
 ### Toggle Feedback
 
@@ -98,34 +98,34 @@
 
 [Link to wireframe - 1](https://github.com/jefferyjohn/hci4800/blob/main/images/Wireframe.jpg)
 
-[Link to wireframe - 2](https://github.com/jefferyjohn/hci4800/blob/main/images/Wireframe_1.jpg)
+[Link to wireframe - 2](https://github.com/jefferyjohn/hci4800/blob/main/images/Wireframe-1.jpg)
 
-[Link to wireframe - 3](https://github.com/jefferyjohn/hci4800/blob/main/images/Wireframe_2.jpg)
+[Link to wireframe - 3](https://github.com/jefferyjohn/hci4800/blob/main/images/Wireframe-2.jpg)
 
-[Link to wireframe - 4](https://github.com/jefferyjohn/hci4800/blob/main/images/Wireframe_3.jpg)
+[Link to wireframe - 4](https://github.com/jefferyjohn/hci4800/blob/main/images/Wireframe-3.jpg)
 
-[Link to wireframe - 5](https://github.com/jefferyjohn/hci4800/blob/main/images/Wireframe_4.jpg)
+[Link to wireframe - 5](https://github.com/jefferyjohn/hci4800/blob/main/images/Wireframe-4.jpg)
 
-[Link to wireframe - 6](https://github.com/jefferyjohn/hci4800/blob/main/images/Wireframe_5.jpg)
+[Link to wireframe - 6](https://github.com/jefferyjohn/hci4800/blob/main/images/Wireframe-5.jpg)
 
-[Link to wireframe - 7](https://github.com/jefferyjohn/hci4800/blob/main/images/Wireframe_6.jpg)
+[Link to wireframe - 7](https://github.com/jefferyjohn/hci4800/blob/main/images/Wireframe-6.jpg)
 
-[Link to wireframe - 8](https://github.com/jefferyjohn/hci4800/blob/main/images/Wireframe_7.jpg)
+[Link to wireframe - 8](https://github.com/jefferyjohn/hci4800/blob/main/images/Wireframe-7.jpg)
 
-[Link to wireframe - 9](https://github.com/jefferyjohn/hci4800/blob/main/images/Wireframe_8.jpg)
+[Link to wireframe - 9](https://github.com/jefferyjohn/hci4800/blob/main/images/Wireframe-8.jpg)
 
-[Link to wireframe - 10](https://github.com/jefferyjohn/hci4800/blob/main/images/Wireframe_9.jpg)
+[Link to wireframe - 10](https://github.com/jefferyjohn/hci4800/blob/main/images/Wireframe-9.jpg)
 
 ### Flag Commands
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FCSHkSKd5450K7fMmgOITnv%2FUGAHacks-Preliminary-Designs%3Fnode-id%3D251%253A741" allowfullscreen></iframe>
 
 [Link to wireframe - 1](https://github.com/jefferyjohn/hci4800/blob/main/images/Wireframeflag.jpg)
 
-[Link to wireframe - 2](https://github.com/jefferyjohn/hci4800/blob/main/images/Wireframeflag_1.jpg)
+[Link to wireframe - 2](https://github.com/jefferyjohn/hci4800/blob/main/images/Wireframeflag-1.jpg)
 
-[Link to wireframe - 3](https://github.com/jefferyjohn/hci4800/blob/main/images/Wireframeflag_2.jpg)
+[Link to wireframe - 3](https://github.com/jefferyjohn/hci4800/blob/main/images/Wireframeflag-2.jpg)
 
-[Link to wireframe - 4](https://github.com/jefferyjohn/hci4800/blob/main/images/Wireframeflag_3.jpg)
+[Link to wireframe - 4](https://github.com/jefferyjohn/hci4800/blob/main/images/Wireframeflag-3.jpg)
 
 ### Color Accessible
 
@@ -133,15 +133,15 @@
 
 [Link to wireframe - 1](https://github.com/jefferyjohn/hci4800/blob/main/images/Wireframecolor.jpg)
 
-[Link to wireframe - 2](https://github.com/jefferyjohn/hci4800/blob/main/images/Wireframecolor_1.jpg)
+[Link to wireframe - 2](https://github.com/jefferyjohn/hci4800/blob/main/images/Wireframecolor-1.jpg)
 
-[Link to wireframe - 3](https://github.com/jefferyjohn/hci4800/blob/main/images/Wireframecolor_2.jpg)
+[Link to wireframe - 3](https://github.com/jefferyjohn/hci4800/blob/main/images/Wireframecolor-2.jpg)
 
-[Link to wireframe - 4](https://github.com/jefferyjohn/hci4800/blob/main/images/Wireframecolor_3.jpg)
+[Link to wireframe - 4](https://github.com/jefferyjohn/hci4800/blob/main/images/Wireframecolor-3.jpg)
 
-[Link to wireframe - 5](https://github.com/jefferyjohn/hci4800/blob/main/images/Wireframecolor_4.jpg)
+[Link to wireframe - 5](https://github.com/jefferyjohn/hci4800/blob/main/images/Wireframecolor-4.jpg)
 
-[Link to wireframe - 6](https://github.com/jefferyjohn/hci4800/blob/main/images/Wireframecolor_5.jpg)
+[Link to wireframe - 6](https://github.com/jefferyjohn/hci4800/blob/main/images/Wireframecolor-5.jpg)
 
 
 ### Display Last Seven Commands
