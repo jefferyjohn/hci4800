@@ -185,8 +185,9 @@
 
 Many of our top ideas were chosen once we agreed on an assumption about how we want to implement our prototypes: aside from the instructor view of what's being projected on screen, there is a separate student interface which students can see on their local machine. 
 
-To summarize our reasoning, we concluded that allowing students to interact with something on their local machines would provide more meaningful interactions through the affordances we could include and, in the case of accessibility ideas, it was necessary to provide a student interface to solve this problem. This also allows us to follow a key design principle we had not mentioned in Milestone 2: keep users in control. Having said that, here our top ideas for our user stories.
+To summarize our reasoning, we concluded that allowing students to interact with something on their local machines would provide more meaningful interactions through the affordances we could include and, in the case of accessibility ideas, it was necessary to provide a student interface to solve this problem. This also allows us to follow a key design principle we had not mentioned in Milestone 2: keep users in control. 
 
+Since we put a lot of detail and effort into our low-fidelity mockups, the design changes we made for the high-fidelity mockup has little to do with the actual design of the application. Instead, the application was simply cleaned up and make more consistent with the other wireframes we have. We also provided notes to specify what each wireframe in the mockup is representing.
 ### Flag Commands
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FCSHkSKd5450K7fMmgOITnv%2FUGAHacks-Preliminary-Designs%3Fnode-id%3D254%253A1440" allowfullscreen></iframe>
@@ -201,8 +202,6 @@ Addressing student confusion is much more helpful than allowing students to pres
 
 If students are able to make notes about a certian command and they are able to flag confusing commands, then these can be returned to at a later time and be addressed. 
 
-Since we put a lot of detail and effort into our low-fidelity mockups, the design changes we made for the high-fidelity mockup has little to do with the actual design of the application. Instead, the application was simply cleaned up and make more consistent with the other wireframes we have. We also provided notes to specify what each wireframe in the mockup is representing. 
-
 ### Toggle Commands
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FCSHkSKd5450K7fMmgOITnv%2FUGAHacks-Preliminary-Designs%3Fnode-id%3D255%253A1634" allowfullscreen></iframe>
@@ -214,8 +213,6 @@ Since we put a lot of detail and effort into our low-fidelity mockups, the desig
 We chose this idea over the plugin because this idea includes the other one while also allowing for more user options. This idea best addresses our user story because it allows students to see the commands that they are most interested in. It also allows students to use the same text editor or a different one. 
 
 In addition to the flexibility presented in this design, it is also better than the plugin because it allows a student to still view the commands the instructor is typing if they are attempting to learn the text editor commands. Our plugin idea takes away the opportunity for students to become familiar with the text editor keystrokes, and therefore the opportunity to learn these keystrokes over time. 
-
-Since we put a lot of detail and effort into our low-fidelity mockups, the design changes we made for the high-fidelity mockup has little to do with the actual design of the application. Instead, the application was simply cleaned up and make more consistent with the other wireframes we have. We also provided notes to specify what each wireframe in the mockup is representing. 
 
 ### Color Accessible
 
@@ -240,8 +237,6 @@ Since we put a lot of detail and effort into our low-fidelity mockups, the desig
 [Link to Figma source](https://www.figma.com/file/CSHkSKd5450K7fMmgOITnv/UGAHacks-Preliminary-Designs?node-id=255%3A2488)
 
 We chose this as our top idea because it incorperates the best parts of the other idea into its design. This design lists the last seven commands the instructor typed. In the design it also displays both the command and the action it was associated with. By logging into the application with the student and instructor ids, there is more clear how an instructor and student are able to connect so that the instructor commands are displayed for students. 
-
-Since we put a lot of detail and effort into our low-fidelity mockups, the design changes we made for the high-fidelity mockup has little to do with the actual design of the application. Instead, the application was simply cleaned up and make more consistent with the other wireframes we have. We also provided notes to specify what each wireframe in the mockup is representing.
 
 ## D: Summary Video
 
