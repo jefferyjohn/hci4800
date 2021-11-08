@@ -51,6 +51,9 @@
   * In the article *Rich Representations of Visual Content for Screen Reader Users* (2018) by Morris et al., they explore the limitations of alt text in screen readers for HTML and images, proposing 5 dimensions that could be used when designing alt text for screen readers (interactivity, stability, representation, structure,  and personalization). These dimensions guided the design of six initial prototypes from which they collected feedback in a user study, including the use of auditory cues or various drafts of alt text depending on the level of detail a user wanted. While feedback was collected for each specific dimension and varied in user reception, all participants found at least one of the prototypes to be an improvement over current interactions with alt text. 
 
     This demonstrates that our user story is initially viable because, when we consider how we will be translating text editor commands for students with a visual disability while in an in-person instruction setting, we will need to be mindful of the limitations of screen reader technology. Current standards for screen reader technology when accessing information is dated in some aspects, and when thinking about how we will create a solution for our problem accessible to all users these limitations will need to be addressed. But, in addition to proving our user story is initially viable, it helps guide our design process by providing a design framework we can use when deliberating representation of the text editor commands.
+
+    Additionally, with the National Federation of the blind reporting in 2017 that 63,357 students from elementary to high school (up to the age of 21) and and approximation of 706,400 adults (age 16+) in 2016 identifying as visually disabled, accessibility to those with disabilities is a relevant user story for our problem statement.
+
  
 *  Access to technology: Excluded for now, due to not being part of the problem statement.
 
@@ -80,24 +83,181 @@
 
 * Let students make notes/flag if they get confused somewhere so they can find their place later and notify instructors of these student interactions
 
-**Wireframes**
+### **Wireframes**
 
-[screenshot of all wireframes]
+![Mural wireframe](/images/ugahacks_m3_wireframes.jpg)
 
-[each wireframe embed with justifications]
+### Command Context
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FCSHkSKd5450K7fMmgOITnv%2FUGAHacks-Preliminary-Designs%3Fnode-id%3D250%253A679" allowfullscreen></iframe>
 
+[Link to wireframe](/images/ugahacks_m3_display.jpg)
+
+### Toggle Feedback
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FCSHkSKd5450K7fMmgOITnv%2FUGAHacks-Preliminary-Designs%3Fnode-id%3D250%253A107" allowfullscreen></iframe>
+
+[Link to wireframe - 1](/images/Wireframe.jpg)
+
+[Link to wireframe - 2](/images/Wireframe_1.jpg)
+
+[Link to wireframe - 3](/images/Wireframe_2.jpg)
+
+[Link to wireframe - 4](/images/Wireframe_3.jpg)
+
+[Link to wireframe - 5](/images/Wireframe_4.jpg)
+
+[Link to wireframe - 6](/images/Wireframe_5.jpg)
+
+[Link to wireframe - 7](/images/Wireframe_6.jpg)
+
+[Link to wireframe - 8](/images/Wireframe_7.jpg)
+
+[Link to wireframe - 9](/images/Wireframe_8.jpg)
+
+[Link to wireframe - 10](/images/Wireframe_9.jpg)
+
+### Flag Commands
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FCSHkSKd5450K7fMmgOITnv%2FUGAHacks-Preliminary-Designs%3Fnode-id%3D251%253A741" allowfullscreen></iframe>
+
+[Link to wireframe - 1](/images/Wireframeflag.jpg)
+
+[Link to wireframe - 2](/images/Wireframeflag_1.jpg)
+
+[Link to wireframe - 3](/images/Wireframeflag_2.jpg)
+
+[Link to wireframe - 4](/images/Wireframeflag_3.jpg)
+
+### Color Accessible
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FCSHkSKd5450K7fMmgOITnv%2FUGAHacks-Preliminary-Designs%3Fnode-id%3D251%253A932" allowfullscreen></iframe>
+
+[Link to wireframe - 1](/images/Wireframecolor.jpg)
+
+[Link to wireframe - 2](/images/Wireframecolor_1.jpg)
+
+[Link to wireframe - 3](/images/Wireframecolor_2.jpg)
+
+[Link to wireframe - 4](/images/Wireframecolor_3.jpg)
+
+[Link to wireframe - 5](/images/Wireframecolor_4.jpg)
+
+[Link to wireframe - 6](/images/Wireframecolor_5.jpg)
+
+
+### Display Last Seven Commands
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FCSHkSKd5450K7fMmgOITnv%2FUGAHacks-Preliminary-Designs%3Fnode-id%3D251%253A1213" allowfullscreen></iframe>
+
+[Link to wireframe - 1](/images/Wireframelast7.jpg)
+
+[Link to wireframe - 2](/images/Wireframelast7-1.jpg)
+
+[Link to wireframe - 3](/images/Wireframelast7-2.jpg)
+
+[Link to wireframe - 4](/images/Wireframelast7-3.jpg)
+
+### Natural Language Commands
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FCSHkSKd5450K7fMmgOITnv%2FUGAHacks-Preliminary-Designs%3Fnode-id%3D251%253A1364" allowfullscreen></iframe>
+
+[Link to wireframe - 1](/images/Group-14natural.jpg)
+
+[Link to wireframe - 2](/images/Group-15natural.jpg)
+
+[Link to wireframe - 3](/images/Group-16natural.jpg)
+
+[Link to wireframe - 4](/images/Group-17natural.jpg)
+
+[Link to wireframe - 5](/images/Group-18natural.jpg)
+
+### Screen Reader
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FCSHkSKd5450K7fMmgOITnv%2FUGAHacks-Preliminary-Designs%3Fnode-id%3D252%253A1418" allowfullscreen></iframe>
+
+[Link to wireframe](/images/Group-19.jpg)
+
+### Jumping Scroll
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FCSHkSKd5450K7fMmgOITnv%2FUGAHacks-Preliminary-Designs%3Fnode-id%3D252%253A1427" allowfullscreen></iframe>
+
+[Link to wireframe](/images/Group-20.jpg)
 ## C: Detailed Designs
 
-[png of wireframe]
+Many of our top ideas were chosen once we agreed on an assumption about how we want to implement our prototypes: aside from the instructor view of what's being projected on screen, there is a separate student interface which students can see on their local machine. 
 
-[justification of wireframe]
+To summarize our reasoning, we concluded that allowing students to interact with something on their local machines would provide more meaningful interactions through the affordances we could include and, in the case of accessibility ideas, it was necessary to provide a student interface to solve this problem. This also allows us to follow a key design principle we had not mentioned in Milestone 2: keep users in control. Having said that, here our top ideas for our user stories.
 
-[download link to source of file]
+### Flag Commands
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FCSHkSKd5450K7fMmgOITnv%2FUGAHacks-Preliminary-Designs%3Fnode-id%3D254%253A1440" allowfullscreen></iframe>
+
+[Link to wireframe](/images/flag-hf.png)
+
+[Link to Figma source](https://www.figma.com/file/CSHkSKd5450K7fMmgOITnv/UGAHacks-Preliminary-Designs?node-id=255%3A1632)
+
+We chose this as our top idea because it is helpful for both instructors and students. While it would be helpful for students to be able to ‘jump’ forward to where the professor is in the material, allowing students to flag commands and make notes is more beneficial to both the student and the instructor. 
+
+Addressing student confusion is much more helpful than allowing students to press a button and skip past certian commands. Students using a text editor in class will most likely have to use a text editor outside of class as well. 
+
+If students are able to make notes about a certian command and they are able to flag confusing commands, then these can be returned to at a later time and be addressed. 
+
+Since we put a lot of detail and effort into our low-fidelity mockups, the design changes we made for the high-fidelity mockup has little to do with the actual design of the application. Instead, the application was simply cleaned up and make more consistent with the other wireframes we have. We also provided notes to specify what each wireframe in the mockup is representing. 
+
+### Toggle Commands
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FCSHkSKd5450K7fMmgOITnv%2FUGAHacks-Preliminary-Designs%3Fnode-id%3D255%253A1634" allowfullscreen></iframe>
+
+[Link to wireframe](/images/toggle-hf.png)
+
+[Link to Figma source](https://www.figma.com/file/CSHkSKd5450K7fMmgOITnv/UGAHacks-Preliminary-Designs?node-id=255%3A1633)
+
+We chose this idea over the plugin because this idea includes the other one while also allowing for more user options. This idea best addresses our user story because it allows students to see the commands that they are most interested in. It also allows students to use the same text editor or a different one. 
+
+In addition to the flexibility presented in this design, it is also better than the plugin because it allows a student to still view the commands the instructor is typing if they are attempting to learn the text editor commands. Our plugin idea takes away the opportunity for students to become familiar with the text editor keystrokes, and therefore the opportunity to learn these keystrokes over time. 
+
+Since we put a lot of detail and effort into our low-fidelity mockups, the design changes we made for the high-fidelity mockup has little to do with the actual design of the application. Instead, the application was simply cleaned up and make more consistent with the other wireframes we have. We also provided notes to specify what each wireframe in the mockup is representing. 
+
+### Color Accessible
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FCSHkSKd5450K7fMmgOITnv%2FUGAHacks-Preliminary-Designs%3Fnode-id%3D255%253A2205" allowfullscreen></iframe>
+
+[Link to wireframe](/images/accessible-hf.png)
+
+[Link to Figma source](https://www.figma.com/file/CSHkSKd5450K7fMmgOITnv/UGAHacks-Preliminary-Designs?node-id=255%3A2205)
+
+We chose this as our top idea because it serves to help more people in terms of accessibiliy when using the application. While it would be helpful for people to be able to easily use a screen reader with our application, there is a smaller pool of users this idea would apply to. According to colorblind.org, 3.7% Americans are colorblind. While this is not a majority of people, it is still a significant number of people who could benefit from an application that is sensitive to those with color blindness. 
+
+According to the National Federation of the Blind, 2.4% of Americans have a visual imparement. This imparement does not include those who are color blind. These statics can be found on this page: https://nfb.org/resources/blindness-statistics. Since there are more people who are color blind than those with visual imparements that would require a screen reader, addressing the issue of color in our application is the idea we chose. 
+
+Since we put a lot of detail and effort into our low-fidelity mockups, the design changes we made for the high-fidelity mockup has little to do with the actual design of the application. Instead, the application was simply cleaned up and make more consistent with the other wireframes we have. We also provided notes to specify what each wireframe in the mockup is representing.
+
+### Display Last Seven Commands
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FCSHkSKd5450K7fMmgOITnv%2FUGAHacks-Preliminary-Designs%3Fnode-id%3D255%253A2488" allowfullscreen></iframe>
+
+[Link to wireframe](/images/seven-hf.png)
+
+[Link to Figma source](https://www.figma.com/file/CSHkSKd5450K7fMmgOITnv/UGAHacks-Preliminary-Designs?node-id=255%3A2488)
+
+We chose this as our top idea because it incorperates the best parts of the other idea into its design. This design lists the last seven commands the instructor typed. In the design it also displays both the command and the action it was associated with. By logging into the application with the student and instructor ids, there is more clear how an instructor and student are able to connect so that the instructor commands are displayed for students. 
+
+Since we put a lot of detail and effort into our low-fidelity mockups, the design changes we made for the high-fidelity mockup has little to do with the actual design of the application. Instead, the application was simply cleaned up and make more consistent with the other wireframes we have. We also provided notes to specify what each wireframe in the mockup is representing.
 
 ## D: Summary Video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mvKQg_h_mT4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [Link to summary video](https://www.youtube.com/watch?v=mvKQg_h_mT4)
+
+## E: Citations
+
+    Morris, M. R., Johnson, J., Bennett, C. L., & Cutrell, E. (2018). Rich Representations of Visual Content for Screen Reader Users. _Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems_. Published. https://doi.org/10.1145/3173574.3173633
+
+    Adalbert Gerald Soosai Raj, Pan Gu, Eda Zhang, Arokia Xavier Annie R, Jim Williams, Richard Halverson, and Jignesh M. Patel. 2020. Live-coding vs Static Code Examples: Which is better with respect to Student Learning and Cognitive Load? In <i>Proceedings of the Twenty-Second Australasian Computing Education Conference</i> (<i>ACE'20</i>). Association for Computing Machinery, New York, NY, USA, 152–159. DOI:https://doi.org/10.1145/3373165.3373182
+
+    National Federation of the Blind. (2019). _Blindness Statistics_. Retrieved November 7, 2021, from https://nfb.org/resources/blindness-statistics
+
+    Medline Plus. (2021). _Color vision deficiency: MedlinePlus Genetics_. Retrieved November 7, 2021, from https://medlineplus.gov/genetics/condition/color-vision-deficiency/#frequency
+
 
 #### [Back to Homepage](./)
