@@ -61,7 +61,7 @@
 
 ## B: Ideation and Prelimary Designs
 
-![Mural ideation board](https://raw.githubusercontent.com/jefferyjohn/hci4800/main/images/ugahacks_m3_wireframes.jpg)
+![Mural ideation board](https://raw.githubusercontent.com/jefferyjohn/hci4800/main/images/ugahacks_mural.jpg)
 
 ### Class Size
 * Display (on the student's screen) the last seven commands an instructor typed but allow students to scroll up to see more
@@ -85,102 +85,102 @@
 
 ### **Wireframes**
 
-![Mural wireframe](https://github.com/jefferyjohn/hci4800/blob/main/images/ugahacks-m3-wireframes.jpg)
+![Mural wireframe](https://raw.githubusercontent.com/jefferyjohn/hci4800/main/images/ugahacks_m3_wireframes.jpg)
 
 ### Command Context
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FCSHkSKd5450K7fMmgOITnv%2FUGAHacks-Preliminary-Designs%3Fnode-id%3D250%253A679" allowfullscreen></iframe>
 
-[Link to wireframe](https://github.com/jefferyjohn/hci4800/blob/main/images/ugahacks-m3-display.jpg)
+[Link to wireframe](https://raw.githubusercontent.com/jefferyjohn/hci4800/main/images/ugahacks-m3-display.jpg)
 
 ### Toggle Feedback
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FCSHkSKd5450K7fMmgOITnv%2FUGAHacks-Preliminary-Designs%3Fnode-id%3D250%253A107" allowfullscreen></iframe>
 
-[Link to wireframe - 1](https://github.com/jefferyjohn/hci4800/blob/main/images/Wireframe.jpg)
+[Link to wireframe - 1](https://raw.githubusercontent.com/jefferyjohn/hci4800/main/images/Wireframe.jpg)
 
-[Link to wireframe - 2](https://github.com/jefferyjohn/hci4800/blob/main/images/Wireframe-1.jpg)
+[Link to wireframe - 2](https://raw.githubusercontent.com/jefferyjohn/hci4800/main/images/Wireframe-1.jpg)
 
-[Link to wireframe - 3](https://github.com/jefferyjohn/hci4800/blob/main/images/Wireframe-2.jpg)
+[Link to wireframe - 3](https://raw.githubusercontent.com/jefferyjohn/hci4800/main/images/Wireframe-2.jpg)
 
-[Link to wireframe - 4](https://github.com/jefferyjohn/hci4800/blob/main/images/Wireframe-3.jpg)
+[Link to wireframe - 4](https://raw.githubusercontent.com/jefferyjohn/hci4800/main/images/Wireframe-3.jpg)
 
-[Link to wireframe - 5](https://github.com/jefferyjohn/hci4800/blob/main/images/Wireframe-4.jpg)
+[Link to wireframe - 5](https://raw.githubusercontent.com/jefferyjohn/hci4800/main/images/Wireframe-4.jpg)
 
-[Link to wireframe - 6](https://github.com/jefferyjohn/hci4800/blob/main/images/Wireframe-5.jpg)
+[Link to wireframe - 6](https://raw.githubusercontent.com/jefferyjohn/hci4800/main/images/Wireframe-5.jpg)
 
-[Link to wireframe - 7](https://github.com/jefferyjohn/hci4800/blob/main/images/Wireframe-6.jpg)
+[Link to wireframe - 7](https://raw.githubusercontent.com/jefferyjohn/hci4800/main/images/Wireframe-6.jpg)
 
-[Link to wireframe - 8](https://github.com/jefferyjohn/hci4800/blob/main/images/Wireframe-7.jpg)
+[Link to wireframe - 8](https://raw.githubusercontent.com/jefferyjohn/hci4800/main/images/Wireframe-7.jpg)
 
-[Link to wireframe - 9](https://github.com/jefferyjohn/hci4800/blob/main/images/Wireframe-8.jpg)
+[Link to wireframe - 9](https://raw.githubusercontent.com/jefferyjohn/hci4800/main/images/Wireframe-8.jpg)
 
-[Link to wireframe - 10](https://github.com/jefferyjohn/hci4800/blob/main/images/Wireframe-9.jpg)
+[Link to wireframe - 10](https://raw.githubusercontent.com/jefferyjohn/hci4800/main/images/Wireframe-9.jpg)
 
 ### Flag Commands
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FCSHkSKd5450K7fMmgOITnv%2FUGAHacks-Preliminary-Designs%3Fnode-id%3D251%253A741" allowfullscreen></iframe>
 
-[Link to wireframe - 1](https://github.com/jefferyjohn/hci4800/blob/main/images/Wireframeflag.jpg)
+[Link to wireframe - 1](https://raw.githubusercontent.com/jefferyjohn/hci4800/main/images/Wireframeflag.jpg)
 
-[Link to wireframe - 2](https://github.com/jefferyjohn/hci4800/blob/main/images/Wireframeflag-1.jpg)
+[Link to wireframe - 2](https://raw.githubusercontent.com/jefferyjohn/hci4800/main/images/Wireframeflag-1.jpg)
 
-[Link to wireframe - 3](https://github.com/jefferyjohn/hci4800/blob/main/images/Wireframeflag-2.jpg)
+[Link to wireframe - 3](https://raw.githubusercontent.com/jefferyjohn/hci4800/main/images/Wireframeflag-2.jpg)
 
-[Link to wireframe - 4](https://github.com/jefferyjohn/hci4800/blob/main/images/Wireframeflag-3.jpg)
+[Link to wireframe - 4](https://raw.githubusercontent.com/jefferyjohn/hci4800/main/images/Wireframeflag-3.jpg)
 
 ### Color Accessible
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FCSHkSKd5450K7fMmgOITnv%2FUGAHacks-Preliminary-Designs%3Fnode-id%3D251%253A932" allowfullscreen></iframe>
 
-[Link to wireframe - 1](https://github.com/jefferyjohn/hci4800/blob/main/images/Wireframecolor.jpg)
+[Link to wireframe - 1](https://raw.githubusercontent.com/jefferyjohn/hci4800/main/images/Wireframecolor.jpg)
 
-[Link to wireframe - 2](https://github.com/jefferyjohn/hci4800/blob/main/images/Wireframecolor-1.jpg)
+[Link to wireframe - 2](https://raw.githubusercontent.com/jefferyjohn/hci4800/main/images/Wireframecolor-1.jpg)
 
-[Link to wireframe - 3](https://github.com/jefferyjohn/hci4800/blob/main/images/Wireframecolor-2.jpg)
+[Link to wireframe - 3](https://raw.githubusercontent.com/jefferyjohn/hci4800/main/images/Wireframecolor-2.jpg)
 
-[Link to wireframe - 4](https://github.com/jefferyjohn/hci4800/blob/main/images/Wireframecolor-3.jpg)
+[Link to wireframe - 4](https://raw.githubusercontent.com/jefferyjohn/hci4800/main/images/Wireframecolor-3.jpg)
 
-[Link to wireframe - 5](https://github.com/jefferyjohn/hci4800/blob/main/images/Wireframecolor-4.jpg)
+[Link to wireframe - 5](https://raw.githubusercontent.com/jefferyjohn/hci4800/main/images/Wireframecolor-4.jpg)
 
-[Link to wireframe - 6](https://github.com/jefferyjohn/hci4800/blob/main/images/Wireframecolor-5.jpg)
+[Link to wireframe - 6](https://raw.githubusercontent.com/jefferyjohn/hci4800/main/images/Wireframecolor-5.jpg)
 
 
 ### Display Last Seven Commands
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FCSHkSKd5450K7fMmgOITnv%2FUGAHacks-Preliminary-Designs%3Fnode-id%3D251%253A1213" allowfullscreen></iframe>
 
-[Link to wireframe - 1](https://github.com/jefferyjohn/hci4800/blob/main/images/Wireframelast7.jpg)
+[Link to wireframe - 1](https://raw.githubusercontent.com/jefferyjohn/hci4800/main/images/Wireframelast7.jpg)
 
-[Link to wireframe - 2](https://github.com/jefferyjohn/hci4800/blob/main/images/Wireframelast7-1.jpg)
+[Link to wireframe - 2](https://raw.githubusercontent.com/jefferyjohn/hci4800/main/images/Wireframelast7-1.jpg)
 
-[Link to wireframe - 3](https://github.com/jefferyjohn/hci4800/blob/main/images/Wireframelast7-2.jpg)
+[Link to wireframe - 3](https://raw.githubusercontent.com/jefferyjohn/hci4800/main/images/Wireframelast7-2.jpg)
 
-[Link to wireframe - 4](https://github.com/jefferyjohn/hci4800/blob/main/images/Wireframelast7-3.jpg)
+[Link to wireframe - 4](https://raw.githubusercontent.com/jefferyjohn/hci4800/main/images/Wireframelast7-3.jpg)
 
 ### Natural Language Commands
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FCSHkSKd5450K7fMmgOITnv%2FUGAHacks-Preliminary-Designs%3Fnode-id%3D251%253A1364" allowfullscreen></iframe>
 
-[Link to wireframe - 1](https://github.com/jefferyjohn/hci4800/blob/main/images/Group-14natural.jpg)
+[Link to wireframe - 1](https://raw.githubusercontent.com/jefferyjohn/hci4800/main/images/Group-14natural.jpg)
 
-[Link to wireframe - 2](https://github.com/jefferyjohn/hci4800/blob/main/images/Group-15natural.jpg)
+[Link to wireframe - 2](https://raw.githubusercontent.com/jefferyjohn/hci4800/main/images/Group-15natural.jpg)
 
-[Link to wireframe - 3](https://github.com/jefferyjohn/hci4800/blob/main/images/Group-16natural.jpg)
+[Link to wireframe - 3](https://raw.githubusercontent.com/jefferyjohn/hci4800/main/images/Group-16natural.jpg)
 
-[Link to wireframe - 4](https://github.com/jefferyjohn/hci4800/blob/main/images/Group-17natural.jpg)
+[Link to wireframe - 4](https://raw.githubusercontent.com/jefferyjohn/hci4800/main/images/Group-17natural.jpg)
 
-[Link to wireframe - 5](https://github.com/jefferyjohn/hci4800/blob/main/images/Group-18natural.jpg)
+[Link to wireframe - 5](https://raw.githubusercontent.com/jefferyjohn/hci4800/main/images/Group-18natural.jpg)
 
 ### Screen Reader
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FCSHkSKd5450K7fMmgOITnv%2FUGAHacks-Preliminary-Designs%3Fnode-id%3D252%253A1418" allowfullscreen></iframe>
 
-[Link to wireframe](https://github.com/jefferyjohn/hci4800/blob/main/images/Group-19.jpg)
+[Link to wireframe](https://raw.githubusercontent.com/jefferyjohn/hci4800/main/images/Group-19.jpg)
 
 ### Jumping Scroll
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FCSHkSKd5450K7fMmgOITnv%2FUGAHacks-Preliminary-Designs%3Fnode-id%3D252%253A1427" allowfullscreen></iframe>
 
-[Link to wireframe](https://github.com/jefferyjohn/hci4800/blob/main/images/Group-20.jpg)
+[Link to wireframe](https://raw.githubusercontent.com/jefferyjohn/hci4800/main/images/Group-20.jpg)
 ## C: Detailed Designs
 
 Many of our top ideas were chosen once we agreed on an assumption about how we want to implement our prototypes: aside from the instructor view of what's being projected on screen, there is a separate student interface which students can see on their local machine. 
@@ -192,7 +192,7 @@ Since we put a lot of detail and effort into our low-fidelity mockups, the desig
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FCSHkSKd5450K7fMmgOITnv%2FUGAHacks-Preliminary-Designs%3Fnode-id%3D254%253A1440" allowfullscreen></iframe>
 
-[Link to wireframe](https://github.com/jefferyjohn/hci4800/blob/main/images/flag-hf.png)
+[Link to wireframe](https://raw.githubusercontent.com/jefferyjohn/hci4800/main/images/flag-hf.png)
 
 [Link to Figma source](https://www.figma.com/file/CSHkSKd5450K7fMmgOITnv/UGAHacks-Preliminary-Designs?node-id=255%3A1632)
 
@@ -206,7 +206,7 @@ If students are able to make notes about a certian command and they are able to 
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FCSHkSKd5450K7fMmgOITnv%2FUGAHacks-Preliminary-Designs%3Fnode-id%3D255%253A1634" allowfullscreen></iframe>
 
-[Link to wireframe](https://github.com/jefferyjohn/hci4800/blob/main/images/toggle-hf.png)
+[Link to wireframe](https://raw.githubusercontent.com/jefferyjohn/hci4800/main/images/toggle-hf.png)
 
 [Link to Figma source](https://www.figma.com/file/CSHkSKd5450K7fMmgOITnv/UGAHacks-Preliminary-Designs?node-id=255%3A1633)
 
@@ -218,7 +218,7 @@ In addition to the flexibility presented in this design, it is also better than 
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FCSHkSKd5450K7fMmgOITnv%2FUGAHacks-Preliminary-Designs%3Fnode-id%3D255%253A2205" allowfullscreen></iframe>
 
-[Link to wireframe](https://github.com/jefferyjohn/hci4800/blob/main/images/accessible-hf.png)
+[Link to wireframe](https://raw.githubusercontent.com/jefferyjohn/hci4800/main/images/accessible-hf.png)
 
 [Link to Figma source](https://www.figma.com/file/CSHkSKd5450K7fMmgOITnv/UGAHacks-Preliminary-Designs?node-id=255%3A2205)
 
@@ -232,7 +232,7 @@ Since we put a lot of detail and effort into our low-fidelity mockups, the desig
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FCSHkSKd5450K7fMmgOITnv%2FUGAHacks-Preliminary-Designs%3Fnode-id%3D255%253A2488" allowfullscreen></iframe>
 
-[Link to wireframe](https://github.com/jefferyjohn/hci4800/blob/main/images/seven-hf.png)
+[Link to wireframe](https://raw.githubusercontent.com/jefferyjohn/hci4800/main/images/seven-hf.png)
 
 [Link to Figma source](https://www.figma.com/file/CSHkSKd5450K7fMmgOITnv/UGAHacks-Preliminary-Designs?node-id=255%3A2488)
 
