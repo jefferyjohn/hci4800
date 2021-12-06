@@ -61,7 +61,7 @@
 
 ## B: Ideation and Prelimary Designs
 
-![Mural ideation board](https://github.com/jefferyjohn/hci4800/blob/main/images/ugahacks-mural.jpg)
+![Mural ideation board](https://raw.githubusercontent.com/jefferyjohn/hci4800/main/images/ugahacks_m3_wireframes.jpg)
 
 ### Class Size
 * Display (on the student's screen) the last seven commands an instructor typed but allow students to scroll up to see more
