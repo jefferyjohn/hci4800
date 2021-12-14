@@ -1,3 +1,8 @@
+# High-Fidelity Prototype
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FCSHkSKd5450K7fMmgOITnv%2FUGAHacks-Preliminary-Designs%3Fnode-id%3D639%253A218" allowfullscreen></iframe>
+[Figma Source File](./images/UGAHacks_HighFidelity.fig)
+
+# Testing Protocol
 <h2>Introduction</h2>
 <p>At the start of this semester our group set out to solve a specific problem: <q><i>(...) students falling behind on the lesson and in turn becoming more worried on how to follow along as opposed to the material attempting to be taught.</i></q> Following this, we undertook a design process that culminated in the final prototype for this milestone. We believe the choices we made with respect to our design are well informed and adequate for initially solving the problem, and with more time we recognize we would need dedicated user studies (done through A/B testing for example) to evaluate these choices. However, our testing protocol proposal is aimed only at evaluating the effectiveness of our prototype in solving our problem of study and the value of our work.</p>
 <h2>Background</h2>
@@ -34,6 +39,10 @@ With the recent pandemic of Covid-19 and lingering aftermath, it is prudent to c
 
 <h2>Additional Remarks</h2>
 <p>In our testing procedure we described a user study experiment that would limit a computer science lesson to a short interval of time as the first step in testing the effect our prototype has on <abbr title=Cognitive Load>CL</abbr>. That said, we recognize this may limit the application of our results when making claims about the effectiveness of our design in the long term as a permanent solution. Future testing could consist of a semester long user study with a between group design, comparing the data of students in different sections of the same programming course using and not using our prototype. Such a study would have it's own challenges to overcome regarding confounding variables related to sample diversity, experience level with text editors, and others, but could provide further insight regarding the effectiveness of our design. In a similar spirit, our initial testing group may prove limiting when we try to make claims about our prototype, and more testing would need to be done with a more random sample of participants.</p>
+
+# Final Summary Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K5Pd-mo6QUk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a href="https://youtu.be/K5Pd-mo6QUk">Link to Summary Video</a>
 
 1. J. H. Berssanette and A. C. de Francisco, "Cognitive Load Theory in the Context of Teaching and Learning Computer Programming: A Systematic Literature Review," in IEEE Transactions on Education, doi: 10.1109/TE.2021.3127215.
 2. John Sweller, CHAPTER TWO - Cognitive Load Theory, Editor(s): Jose P. Mestre, Brian H. Ross, Psychology of Learning and Motivation, Academic Press, Volume 55, 2011, Pages 37-76, ISSN 0079-7421, ISBN 9780123876911, https://doi.org/10.1016/B978-0-12-387691-1.00002-8. (https://www.sciencedirect.com/science/article/pii/B9780123876911000028)
