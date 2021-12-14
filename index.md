@@ -14,3 +14,4 @@ This is the problem that we hope to solve. More concretely, we hope to decouple 
 * [Milestone 1: Problem Proposal](./milestone1.html)
 * [Milestone 2: Definition & Related Work](./milestone2.html)
 * [Milestone 3: Design Alternatives](./milestone3.html)
+* [Milestone 4: Prototyping & Testing](./milestone4.html)
