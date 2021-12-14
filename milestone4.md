@@ -1,6 +1,41 @@
-# High-Fidelity Prototype
+# A. High-Fidelity Prototype
+## A1. Figma
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FCSHkSKd5450K7fMmgOITnv%2FUGAHacks-Preliminary-Designs%3Fnode-id%3D639%253A218" allowfullscreen></iframe>
 [Figma Source File](./images/UGAHacks_HighFidelity.fig)
+
+## A2. User Stories
+*As a student who is not familiar with the text editor my professor is using, I want to see the list of commands my professor is typing and an explanation of the keystrokes so I can replicate the action in the same or a different text editor.*
+
+How design decisions address the user story and problem of study:
+
+The application has a settings menu that allows students to toggle between three ways of viewing the commands: the exact command typed by the instructor, the instructor’s command translated to a student’s chosen text editor, and a natural language description of the command. Students can choose any combination of these three options, with between zero and three versions of the commands being displayed at a time. With the different display options, students can view the text editor commands in whatever way is easiest for them. If students want to learn the text editor the instructor is using, they can display the instructor’s commands as well as the natural language commands so they can learn what each command does. If a student is already familiar with a different text editor, they can display the instructor’s commands in terms of the text editor they are already familiar with and can skip using the instructor’s text editor all together. No matter what a student feels most comfortable with, they can easily replicate the actions of the instructor and understand what the instructor’s keystrokes mean. By reducing the amount of learning a student must do in relation to the text editor, that energy can instead be spent on learning the content being taught. 
+
+[Demo](https://youtu.be/HAMsTl5iNd8)
+
+*As an instructor teaching an in-person programming class, I want the commands I type to be displayed so that the seating arrangement of my students does not impact their ability to follow my lecture and so they can focus on core concepts instead of text editor commands.*
+
+How design decisions address the user story and problem of study:
+
+Since this application is on each student’s laptop, the seating arrangement and size of the class does not impact the use of the application and viewing instructor commands. The application lists the last seven commands typed by the instructor for the students to view. Seven commands are listed because people are only able to remember 7 plus or minus 2 chunks of information at a time according to Shneiderman et.al (2017).  By providing students with access to the last seven commands, they do not have to remember these chunks of information, and can instead focus on the material being discussed in class. Reducing the cognitive load related to using a text editor allows for a deeper understanding of the material and less distraction. In case there are students who get behind or confused, there is a scroll bar on the right side of the application so that students may scroll up and find the commands they missed. Students do not have to attempt to figure out what commands they missed or distract the class by asking questions, but can instead review the list of commands and where they went wrong. 
+
+[Demo](https://youtu.be/11gggA2KSwc)
+
+*As a student who is new to programming, I want to see the list of commands that my professor types into the text editor so that I can focus on the concepts being taught instead of memorizing keystrokes or falling behind in class.*
+
+How design decisions address the user story and problem of study:
+
+In addition to listing the last seven commands, which is addressed in a previous user story design, the application also allows students to flag and make notes on any command typed by the instructor. If a student is confused about what a command should do, or a student begins to fall behind at a specific command, they can flag that command. Students can then easily return to the command later and instructors are notified that a student flagged the command. If many students flag a certain command, instructors are able to easily identify that there is a problem and can address it. Allowing students to flag commands provides students with a way to quickly mark problems and move on so that they do not fall behind. Students are also able to make notes on commands. Similar to flagging a command, students can easily return to these notes and review what they wrote at a later time. Whether the note pertains to the command itself or the content being discussed in the class, students can quickly type notes without falling any further behind in class. 
+
+[Demo](https://youtu.be/jPaDvTPEThg)
+
+*As a student who has difficulties following along in class (due to visual or learning disabilities), I want the list of the commands my professor typed transposed into a format that I can access.*
+
+How design decisions address the user story and problem of study:
+
+The application provides students with three options of how the application is displayed: light mode, dark mode, and color mode. Since many computer science students prefer dark mode, this is the default display for our application. Students can easily switch between color modes under the color menu. All three options are color blind accessible; each was put through a color blind simulator to ensure this. The color mode of the application was created and checked by Adobe’s color palette generator. Students are able to view the application in a way that is accessible despite potential color blind challenges. 
+
+[Demo](https://youtu.be/oViyKQ4hz8k)
+
 
 # Testing Protocol
 <h2>Introduction</h2>
